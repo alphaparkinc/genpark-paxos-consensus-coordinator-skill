@@ -1,0 +1,9 @@
+{
+  "name": "genpark-paxos-consensus-coordinator-skill",
+  "version": "1.0.1",
+  "description": "Classical single-decree Paxos consensus engine with prepare, promise, accept, and commit phases for multi-agent distributed agreement",
+  "author": "AlphaPark Inc",
+  "license": "Apache-2.0",
+  "main": "client.py",
+  "runtime": "python3"
+}
