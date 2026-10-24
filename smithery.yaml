@@ -1,0 +1,10 @@
+startCommand:
+  type: stdio
+  config:
+    command: python
+    args:
+      - mcp_server.py
+name: genpark-paxos-consensus-coordinator-skill
+description: Classical single-decree Paxos consensus engine with prepare, promise, accept, and commit phases for multi-agent distributed agreement
+version: 1.0.1
+homepage: https://www.genpark.ai
